@@ -16,7 +16,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm a C++ student programming...</p>
+<p data-importer="text" align="left">I'm a programming student focusing on C++, um...</p>
 
 ###
 
