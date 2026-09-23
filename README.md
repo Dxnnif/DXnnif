@@ -52,26 +52,8 @@
 
 ###
 
-<h2 data-importer="text" align="left">My social media</h2>
-
-###
-
-<div data-importer="socials" align="left">
-  <a href="https://discord.com/users/1112166510035746856" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="54" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/danlfr/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="54" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://x.com/DXnnif_x" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="54" height="40" alt="twitter logo"  />
-  </a>
-</div>
-
-###
-
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=default"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=103&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=default"  />
 </div>
 
 ###
