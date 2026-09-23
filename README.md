@@ -19,20 +19,20 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=DXnnif&locale=en&mode=weekly&theme=cobalt&hide_border=false&border_radius=23" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=DXnnif&locale=en&mode=weekly&theme=cobalt&hide_border=true&border_radius=23" height="200" alt="streak graph"  />
 </div>
 
 ###
 
 <div data-importer="socials" align="center">
   <a href="https://www.instagram.com/danlfr/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="instagram logo"  />
   </a>
   <a href="https://discord.com/users/1112166510035746856" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="discord logo"  />
   </a>
   <a href="https://x.com/DXnnif_x" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="twitter logo"  />
   </a>
 </div>
 
