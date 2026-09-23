@@ -26,7 +26,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">I study and programming in</h2>
+<h2 data-importer="text" align="left">I study and program in</h2>
 
 ###
 
@@ -40,6 +40,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="50" alt="cmake logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
+</div>
+
+###
+
+<h2 data-importer="text" align="left">My social media</h2>
+
+###
+
+<div data-importer="socials" align="left">
+  <a href="https://discord.com/users/1112166510035746856" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/danlfr/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://x.com/DXnnif_x" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
+  </a>
 </div>
 
 ###
